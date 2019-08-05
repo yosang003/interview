@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 wwwwwwwwwwwwwwwwwwwwwwwwwww
+=======
+ lala
+yaya
+>>>>>>> 2596763430667027f8741058e6cd6278c52b313c
